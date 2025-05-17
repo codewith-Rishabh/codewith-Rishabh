@@ -1,68 +1,46 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer from [Your Location]</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F700&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Love+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" />
 </p>
 
----
+<h1 align="center">Hola 👋, I'm Rishabh Varshney</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### 💫 About Me
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Developer GIF" width="300" />
+</p>
 
-- 🌱 I’m currently learning **System Design, DSA, and DevOps**
-- 👨‍💻 All of my projects are available at [Your Portfolio Link](https://your-portfolio.com)
-- 💬 Ask me about **MERN Stack, JavaScript, Node.js, MongoDB, Express**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: _“I don't just write code — I craft experiences.”_
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewith-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="codewith-rishabh" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### 🛠️ Languages and Tools:
+- 🌱 I’m currently learning **React Native**
 
+- 👨‍💻 All of my projects are available at [https://new-portfoliosite-rishi06.netlify.app/](https://new-portfoliosite-rishi06.netlify.app/)
+
+- 💬 Ask me about **MERN, Next.js, DSA**
+
+- 📫 How to reach me **rishabh7451adfsfgxh@gmail.com**
+
+- 📄 Know about my experiences [https://new-portfoliosite-rishi06.netlify.app/](https://new-portfoliosite-rishi06.netlify.app/)
+
+- ⚡ Fun fact **In Git, HEAD means “where you’re at” — so technically, you’re always thinking with your HEAD. 🧠🤣**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,redux,tailwind,git,github,vscode,figma" />
+<a href="https://dev.to/codewith-rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codewith-rishabh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh-varshney006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-varshney006" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codewithrishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codewithrishabh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codewith-rishabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codewith-rishabh" height="30" width="40" /></a>
 </p>
 
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="49%" />
-</p>
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-| Project Name | Description | Tech |
-|--------------|-------------|------|
-| 🛒 E-Commerce Site | Amazon/Myntra-style dynamic frontend with cart, product modals, and filters | HTML, CSS, JS, Bootstrap |
-| 🍕 Pizza Delivery App | Fully dynamic menu, order tracking, and testimonials | Bootstrap, JavaScript, API |
-| 📚 Blog & Study Platform | Owl Carousel, dynamic cards, study categories | HTML, jQuery, Bootstrap, APIs |
-| 🔐 Auth System | JWT, Bcrypt, Node.js RESTful API with controller-service-model pattern | Node.js, Express, MongoDB |
-
----
-
-### 🧠 Quote of the Day
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
-
----
-
-### 📬 Connect with Me
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+  <!-- tools section -->
+  <!-- (keep your existing tool icons here as-is) -->
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith-rishabh&show_icons=true&locale=en&layout=compact" alt="codewith-rishabh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewith-rishabh&show_icons=true&locale=en" alt="codewith-rishabh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-rishabh&" alt="codewith-rishabh" /></p>
